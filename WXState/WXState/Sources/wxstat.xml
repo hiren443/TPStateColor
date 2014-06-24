@@ -1,0 +1,12 @@
+<markers>
+
+<marker lat=" 50.0053" lng=" 7.1936" name="London" IATA="LHR" temperature="4" wind="260" at="15" weather="FOG" color="yellow"/>
+<marker lat=" 33.2428" lng=" 126.4850" name="Athens" IATA="ATH" temperature="14" wind="020" at="5" weather="SUN" color="green" />
+<marker lat="-60.0000" lng=" -68.0000" name="London" IATA="LHR" temperature="4" wind="260" at="15" weather="FOG" color="yellow"/>
+<marker lat=" 26.4317" lng=" 122.4906" name="Munich" IATA="MUC" temperature="1" wind="060" at="13" weather="SNOW" color="yellow" />
+<marker lat=" 46.4083" lng=" 11.8528" name="Athens" IATA="ATH" temperature="14" wind="020" at="5" weather="SUN" color="green" />
+<marker lat=" 28.8167" lng=" 126.9728" name="Munich" IATA="MUC" temperature="1" wind="060" at="13" weather="SNOW" color="yellow" />
+<marker lat=" 41.6758" lng=" 113.2858" name="Brussels" IATA="BRU" temperature="5" wind="240" at="6" weather="CLOUD" color="green" />
+<marker lat=" 34.9403" lng="-142.4050" name="Brussels" IATA="BRU" temperature="5" wind="240" at="6" weather="CLOUD" color="green" />
+<marker lat=" 23.1536" lng="-159.2544" name="Brussels" IATA="BRU" temperature="5" wind="240" at="6" weather="CLOUD" color="green" />
+</markers>
